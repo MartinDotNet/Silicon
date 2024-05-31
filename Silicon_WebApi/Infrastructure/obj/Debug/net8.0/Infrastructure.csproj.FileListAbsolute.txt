@@ -1,0 +1,14 @@
+C:\DotNetSchool\CSharp\Silicon\Silicon_WebApi\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\DotNetSchool\CSharp\Silicon\Silicon_WebApi\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\DotNetSchool\CSharp\Silicon\Silicon_WebApi\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\DotNetSchool\CSharp\Silicon\Silicon_WebApi\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\DotNetSchool\CSharp\Silicon\Silicon_WebApi\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\DotNetSchool\CSharp\Silicon\Silicon_WebApi\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetSchool\CSharp\Silicon\Silicon_WebApi\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\DotNetSchool\CSharp\Silicon\Silicon_WebApi\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\DotNetSchool\CSharp\Silicon\Silicon_WebApi\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\DotNetSchool\CSharp\Silicon\Silicon_WebApi\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\DotNetSchool\CSharp\Silicon\Silicon_WebApi\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\DotNetSchool\CSharp\Silicon\Silicon_WebApi\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\DotNetSchool\CSharp\Silicon\Silicon_WebApi\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\DotNetSchool\CSharp\Silicon\Silicon_WebApi\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
