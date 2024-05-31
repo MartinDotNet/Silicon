@@ -1,3 +1,3 @@
-Hejsan, Har haft en del problem i privatlivet. Men jag fixar detta på komplimenteringen.
-Har kommit en bit nu men har en del kvar, fixar detta till nästa komplimentering. 
+Det låter bra. Har kommit en bit påvägen nu så fixar klart resterande till nästa komplitering.
+Hoppas  allt är bra i värmen, mvh Martin
 # Silicon
